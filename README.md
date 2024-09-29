@@ -1,5 +1,7 @@
 # POLLICLIENT-GUI
 
+![image](https://github.com/user-attachments/assets/238380d2-b306-4869-b750-395f989733c9)
+
 POLLICLIENT-GUI is a PyQt5-based application that allows users to generate images from prompts and descriptions using external APIs. This tool provides a convenient interface for handling image descriptions, prompt enhancement, and thumbnail viewing for generated images. It also allows for the management of treatments and prompt history.
 
 ## Features
