@@ -1,0 +1,8 @@
+# Ignore all Python bytecode and logs
+*.pyc
+__pycache__
+
+# Ignore POLLICLIENT-GUI-specific files
+POLLICLIENT-GUI-*.py
+GENERATED/
+*.json
